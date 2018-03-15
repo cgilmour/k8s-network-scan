@@ -1,1 +1,1 @@
-# k8s-network-scan
+# kube-network-scan
